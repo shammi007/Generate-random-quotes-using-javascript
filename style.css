@@ -1,0 +1,39 @@
+#box1{
+    position: absolute;
+    left:25%;
+    top: 20%;
+    width: 550px;
+    height: 350px;
+  border: 5px solid orange;
+  padding: 50px;
+  margin: 20px;
+  background-color: darkcyan;
+}
+#box2{
+    position: absolute;
+    left:10%;
+    top:10%;
+    width:400px;
+    height:250px;
+    padding:50px;
+    background-color: lightgrey;
+}
+body{
+    background-color: darkturquoise;
+}
+#btn{
+    width:90px;
+    background-color: khaki;
+    position: absolute;
+    left: 40%;
+}
+textarea{
+  overflow:hidden;
+  padding:10px;
+  width:250px;
+  font-size:14px;
+  margin:50px auto;
+  display:block;
+  border-radius:10px;
+  border:6px solid #556677;
+}
